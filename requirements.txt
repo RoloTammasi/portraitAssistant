@@ -1,0 +1,5 @@
+qrtools
+git+https://github.com/npinchot/zbar.git
+pypng
+pyqrcode
+
