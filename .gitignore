@@ -1,3 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/*
-
+test_data/.ipynb_checkpoints/*
+test_data/QRs/*
