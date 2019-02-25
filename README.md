@@ -7,7 +7,7 @@ Usage:
 1. Open `qr_create.py` and modify variables under `# set variable(s)`
 2. Run file: `$ python qr_create.py`
 </br></br>
-## Prong 2
+## Prong 2 - TESTING
 Iterate through a folder of images and sort pictures into separate folders per student with naming structure `LastnameFirstnameStudentID`. No need to change file name of images.
 </br></br>
 ## Prong 3
